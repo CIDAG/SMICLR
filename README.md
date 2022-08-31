@@ -10,7 +10,7 @@ The official PyTorch implementation of SMICLR: Contrastive Learning on Multiple 
 
 #### Cite
 
-Please cite [our paper](...) if you use this dataset in your own work:
+Please cite [our paper](...) if you use this code in your own work:
 
 ```
 @inproceedings{...
