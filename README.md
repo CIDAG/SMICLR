@@ -6,7 +6,7 @@
 
 The official PyTorch implementation of SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning. SMICLR jointly trains a graph encoder and an encoder for the simplified molecular-input line-entry system (SMILES) string to perform the contrastive learning objective.
 
-<img src='figs/smiclr.pdf' width='400'>
+<img src='figs/smiclr.png' width='400'>
 
 #### Cite
 
