@@ -8,6 +8,10 @@ The official PyTorch implementation of SMICLR: Contrastive Learning on Multiple 
 
 <img src='figs/smiclr.png' width='400'>
 
+#### Dependencies
+
+We conducted the experiments using the libraries version described in the `requirements.txt` file.
+
 #### Cite
 
 Please cite [our paper](...) if you use this code in your own work:
