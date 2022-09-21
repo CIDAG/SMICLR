@@ -26,7 +26,7 @@ Please cite [our paper](...) if you use this code in your own work:
   pages = {3948-3960},
   year = {2022},
   doi = {10.1021/acs.jcim.2c00521},
-  note ={PMID: 36044610},
+  note = {PMID: 36044610},
   URL = {https://doi.org/10.1021/acs.jcim.2c00521},
   eprint = {https://doi.org/10.1021/acs.jcim.2c00521}
 }
