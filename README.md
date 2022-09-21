@@ -30,4 +30,3 @@ Please cite [our paper](...) if you use this code in your own work:
   URL = {https://doi.org/10.1021/acs.jcim.2c00521},
   eprint = {https://doi.org/10.1021/acs.jcim.2c00521}
 }
-
