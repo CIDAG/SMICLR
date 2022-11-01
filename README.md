@@ -17,7 +17,7 @@ We conducted the experiments using the libraries version described in the `requi
 Please cite [our paper](...) if you use this code in your own work:
 
 ```
-@article{Pinheiro_2020_SMICLR,
+@article{Pinheiro_2022_SMICLR,
   author = {Pinheiro, Gabriel A. and Da Silva, Juarez L. F. and Quiles, Marcos G.},
   title = {SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning},
   journal = {Journal of Chemical Information and Modeling},
