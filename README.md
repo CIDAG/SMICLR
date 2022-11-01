@@ -1,6 +1,6 @@
 # SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning
 #### Authors: [Gabriel A. Pinheiro](https://scholar.google.com.br/citations?user=819H8Y8AAAAJ&hl=pt-BR&oi=ao), [Juarez L. F. Da Silva](https://scholar.google.com.br/citations?user=wQG1X8wAAAAJ&hl=pt-BR&oi=ao), [Marcos G. Quiles](https://scholar.google.com.br/citations?user=kQXxkc4AAAAJ&hl=pt-BR&oi=ao)
-#### [Link to Paper](10.1021/acs.jcim.2c00521)
+#### [Link to Paper](https://doi.org/10.1021/acs.jcim.2c00521)
 
 ### SMICLR
 
